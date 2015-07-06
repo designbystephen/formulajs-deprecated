@@ -1,0 +1,26 @@
+/**
+ *	For use with Formula.js Library 
+ */
+
+/*
+ * 	Used to highlight errors on the page
+ */
+
+.formula-error-input{
+	border: 1px solid #eeeeee !important;
+	background-color: #990033 !important;
+	color: #ffffff !important;
+}
+
+.formula-error-text{
+	color: #990000 !important;
+	font-weight: bold !important;
+}
+
+/*
+ *	Used for placeholders
+ */
+
+.formula-placeholder {
+	color: #aaa !important;
+}
